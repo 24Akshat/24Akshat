@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Myself Akshat Gupta, I am currently an engineering student studying in India. I am a coding enthusiast and always look towards learning new things and I like critical problem solving.
+
 <!--
 **24Akshat/24Akshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages and Tools
+Python Java
