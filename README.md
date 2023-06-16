@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.java.com/en/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fjava-logo.html&psig=AOvVaw0NTFRX8UZFaY6127kTFnxn&ust=1687023626207000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLCf2fKqyP8CFQAAAAAdAAAAABAI" alt="Java" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.java.com/en/" target="_blank"><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fjava-logo.html&psig=AOvVaw0NTFRX8UZFaY6127kTFnxn&ust=1687023626207000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLCf2fKqyP8CFQAAAAAdAAAAABAI](https://www.cleanpng.com/png-java-logo-programming-language-java-plum-964780/preview.html)https://www.cleanpng.com/png-java-logo-programming-language-java-plum-964780/preview.html" alt="Java" height="40" style="vertical-align:top; margin:4px"></a>
