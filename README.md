@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Myself Akshat Gupta, I am currently an engineering student studying in India. I am a coding enthusiast and always look towards learning new things and I like critical problem solving.
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <!--
 **24Akshat/24Akshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
