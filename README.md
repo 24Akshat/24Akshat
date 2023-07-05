@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Myself Akshat Gupta, I am currently an engineering student studying in India. I am a coding enthusiast and always look towards learning new things and I like critical problem solving.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--
 **24Akshat/24Akshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="akshat-gupta-6ba850168" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akshat-gupta-6ba850168?trk=profile-badge">Akshat Gupta</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="akshat-gupta-6ba850168" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akshat-gupta-6ba850168?trk=profile-badge" target="_blank">Akshat Gupta</a></div>
               
 ### Languages and Tools
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
