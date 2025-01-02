@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/" target="_blank"><img src="https://images.codingblocks.com/web/express.png" alt="ExpressJS" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="MongoDB" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:678/0*kxPYwfJmkXZ3iCWy.png" alt="MERN Stack" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="" target="_blank"><img src="https://e7.pngegg.com/pngimages/585/981/png-clipart-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text.png" alt="HTML, CSS, JS" height="40" style="vertical-align:top; margin:4px"></a>
